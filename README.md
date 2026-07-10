@@ -26,3 +26,6 @@
 <img src="https://komarev.com/ghpvc/?username=prathamc00&label=Visitors&color=blue&style=flat"/>
 
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/prathamc00/prathamc00/output/github-contribution-grid-snake.svg"/>
+</p>
