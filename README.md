@@ -1,20 +1,32 @@
 <div align="center">
 
-<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=PRATHMESH%20CHAVAN&fontSize=44&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:020617,45:0f172a,100:0c4a6e" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Prathmesh%20Chavan&fontSize=46&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:111827,100:1e3a5f" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+actually+do+things.;LLMs+%7C+RAG+%7C+Agents+%7C+APIs;Python+%7C+FastAPI+%7C+MCP+%7C+PostgreSQL;Turning+ideas+into+working+products." alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+%7C+SYSTEMS+%7C+AUTOMATION;Building+AI+systems+that+actually+do+things.;LLMs+%7C+RAG+%7C+Agents+%7C+MCP;Turning+ideas+into+working+products." alt="Typing animation" />
 
 <br />
 
+┌──────────────────────────────────────────────────────────────┐
+│  $ whoami                                                    │
+│                                                              │
+│  prathmeshc00                                                │
+│  AI systems • backend • automation                           │
+│                                                              │
+│  $ status                                                     │
+│  ● BUILDING                                                   │
+│                                                              │
+│  $ mission                                                     │
+│  Build useful systems. Break them. Fix them. Ship them.      │
+└──────────────────────────────────────────────────────────────┘
+
+<a href="https://github.com/prathamc00">
+  <img src="https://img.shields.io/badge/GitHub-prathamc00-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/prathmesh-chavan-055556378/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Prathmesh%20Chavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/builtByParth">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-@builtByParth-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <br /><br />
@@ -22,6 +34,8 @@
 <img src="https://komarev.com/ghpvc/?username=prathamc00&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" />
 
 </div>
+
+
 
 > whoami
 
@@ -32,6 +46,20 @@ I’m especially interested in the layer between an idea and a production-ready 
 ┌──────────────────────────────────────────────────────────────┐
 │  BUILD → TEST → BREAK → FIX → SHIP → REPEAT                 │
 └──────────────────────────────────────────────────────────────┘
+
+system.dashboard
+
+┌───────────────────────┬──────────────────────────────────────┐
+│ FOCUS                 │ AI systems, agents & automation     │
+├───────────────────────┼──────────────────────────────────────┤
+│ BUILDING              │ MCP servers + intelligent workflows │
+├───────────────────────┼──────────────────────────────────────┤
+│ BACKEND               │ FastAPI + PostgreSQL + Redis        │
+├───────────────────────┼──────────────────────────────────────┤
+│ AI                    │ LLMs + RAG + PyTorch                │
+├───────────────────────┼──────────────────────────────────────┤
+│ DEPLOYMENT            │ Docker + cloud infrastructure       │
+└───────────────────────┴──────────────────────────────────────┘
 
 What I'm exploring
 
@@ -46,6 +74,19 @@ What I'm exploring
 🐳 Docker, deployment & production workflows
 
 🤖 AI-powered automation
+
+> build_philosophy
+
+Don't just call an API. Build the system around it.
+
+while idea:
+    prototype()
+    test()
+    break_things()
+    debug()
+    ship()
+
+I care about the parts that turn an AI demo into a real system:data → models → tools → APIs → workflows → users.
 
 > featured_projects
 
@@ -99,6 +140,31 @@ The rule: build things that solve an actual problem.
 </tr>
 </table>
 
+> how_i_build
+
+                    ┌───────────────┐
+                    │     USER      │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │      API      │
+                    │   FastAPI     │
+                    └───────┬───────┘
+                            │
+                ┌───────────┼───────────┐
+                ▼           ▼           ▼
+          ┌──────────┐ ┌──────────┐ ┌──────────┐
+          │   LLM    │ │  TOOLS   │ │ DATABASE │
+          │ RAG/AI   │ │ MCP/APIs │ │ Postgres │
+          └────┬─────┘ └────┬─────┘ └────┬─────┘
+               └────────────┼─────────────┘
+                            ▼
+                    ┌───────────────┐
+                    │   WORKFLOW    │
+                    │   AUTOMATION  │
+                    └───────────────┘
+
 > toolbox
 
 <div align="center">
@@ -116,6 +182,16 @@ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
+
+> now
+
+[████████████████████░░] Building
+
+→ AI agents
+→ MCP integrations
+→ RAG systems
+→ Production APIs
+→ Automation workflows
 
 > github_activity
 
