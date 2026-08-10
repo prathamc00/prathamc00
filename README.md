@@ -1,5 +1,5 @@
 #  About Me:
-Hey, I’m Prathmesh 👋<br>I’m a tech enthusiast who loves learning, building, and experimenting with new ideas. I’m mainly interested in **AI and Machine Learning**, and I enjoy turning ideas into actual projects.<br><br>I’m still learning and figuring things out along the way, but I genuinely enjoy the process of building, breaking things, fixing them, and learning something new every time.<br>
+Hey, I’m Prathmesh <br>I’m a tech enthusiast who loves learning, building, and experimenting with new ideas. I’m mainly interested in **AI and Machine Learning**, and I enjoy turning ideas into actual projects.<br><br>I’m still learning and figuring things out along the way, but I genuinely enjoy the process of building, breaking things, fixing them, and learning something new every time.<br>
 
 
 ## 🌐 Socials:
