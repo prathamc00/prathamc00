@@ -11,7 +11,7 @@
 <br/><br/>
 
 ![Academic](https://img.shields.io/badge/Engineering-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Bengaluru,India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```yaml
 name: "Prathmesh Chavan"
@@ -107,7 +107,7 @@ I approach engineering with a **product mindset** — not just writing code that
 
 ---
 
-## 🤖 AI / ML Expertise
+## AI / ML Expertise
 
 <div align="center">
 
@@ -124,7 +124,7 @@ I approach engineering with a **product mindset** — not just writing code that
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>🔹 AI-Powered Content Assistant</b></summary>
@@ -142,25 +142,6 @@ An intelligent assistant that leverages ML models to analyze, summarize, and gen
 | **Repository** | [View Repo](https://github.com/prathamc00) |
 
 This project involved designing an end-to-end pipeline — from data preprocessing and model fine-tuning to building a responsive frontend and deploying a scalable API layer, with a strong focus on latency optimization and reliability.
-
-</details>
-
-<details>
-<summary><b>🔹 Full Stack SaaS Platform</b></summary>
-<br/>
-
-A multi-tenant SaaS application with real-time features, built to demonstrate scalable full-stack architecture and clean UX.
-
-| Attribute | Details |
-|:--|:--|
-| **Stack** | Next.js, Node.js, PostgreSQL, Redis, Tailwind CSS |
-| **Scale** | Multi-tenant architecture supporting isolated workspaces |
-| **Performance** | Server-side rendering with edge caching |
-| **Security** | Role-based access control, encrypted credentials |
-| **Impact** | Reduced onboarding time for new users |
-| **Repository** | [View Repo](https://github.com/prathamc00) |
-
-Built with an emphasis on developer experience and maintainability — modular component architecture, typed API contracts, and CI/CD pipelines for automated testing and deployment.
 
 </details>
 
@@ -185,19 +166,6 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 ---
 
-## 💼 Experience
-
-### Software Engineering Intern
-**[Company Name]**
-`[Month Year] – [Month Year]`
-
-Contributed to the design and development of scalable web applications and AI-driven features within a cross-functional engineering team.
-
-**Scope of Work:**
-- Developed and maintained full-stack features using React and Node.js
-- Built and integrated ML-based modules into production workflows
-- Collaborated with senior engineers on system design and code reviews
-- Improved application performance through profiling and optimization
 
 **Skills:** `React` `Node.js` `Python` `REST APIs` `Git` `Agile`
 
@@ -209,10 +177,10 @@ Contributed to the design and development of scalable web applications and AI-dr
 
 | Recognition | Details |
 |:--|:--|
-| 🥇 Hackathon Participant | Built AI-driven solutions under time constraints in competitive hackathons |
-| 📜 Academic Excellence | Consistent academic performance in Computer Science coursework |
-| 🌟 Open Source Contributor | Active contributions to open-source repositories on GitHub |
-| 💡 Personal Projects | Self-driven end-to-end AI/ML and full-stack product builds |
+|  Hackathon Participant | Built AI-driven solutions under time constraints in competitive hackathons |
+|  Academic Excellence | Consistent academic performance in Computer Science coursework |
+|  Open Source Contributor | Active contributions to open-source repositories on GitHub |
+|  Personal Projects | Self-driven end-to-end AI/ML and full-stack product builds |
 
 </div>
 
@@ -274,7 +242,7 @@ Contributed to the design and development of scalable web applications and AI-dr
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -284,7 +252,7 @@ Contributed to the design and development of scalable web applications and AI-dr
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -294,7 +262,7 @@ Contributed to the design and development of scalable web applications and AI-dr
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 learning:
