@@ -219,24 +219,14 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathamc00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C8B6FF&bg_color=0D1117" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamc00&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C8B6FF" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=prathamc00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C8B6FF&bg_color=0D1117" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=prathamc00&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C8B6FF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamc00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C8B6FF" width="49%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prathamc00&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prathamc00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C8B6FF" width="49%"/>
 
 </div>
 
