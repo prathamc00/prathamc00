@@ -1,24 +1,341 @@
-#  About Me:
-Hey, I’m Prathmesh <br>I’m a tech enthusiast who loves learning, building, and experimenting with new ideas. I’m mainly interested in **AI and Machine Learning**, and I enjoy turning ideas into actual projects.<br><br>I’m still learning and figuring things out along the way, but I genuinely enjoy the process of building, breaking things, fixing them, and learning something new every time.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Prathmesh%20Chavan&fontSize=60&fontColor=C8B6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nncfGBsC) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathmesh-chavan-055556378/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33016956) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/builtByParth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshc002@gmail.com ) 
+<br/>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=plastic&logoColor=%23000000) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=plastic&logo=Cockroach%20Labs&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=plastic&logo=fastlane&logoColor=black) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=plastic) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=prathamc00&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=prathamc00&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prathamc00&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+systems%2C+one+commit+at+a+time;AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;Turning+ideas+into+production-grade+software;Currently+exploring+LLMs+%26+Applied+ML" alt="Typing SVG" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br/><br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prathamc00&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Academic](https://img.shields.io/badge/Engineering-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://prathmesh-portofolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-chavan-055556378/)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshc002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamc00)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=prathamc00&label=Profile%20Views&color=6d28d9&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/prathamc00?label=Followers&style=for-the-badge&color=7c3aed)
+![Stars](https://img.shields.io/github/stars/prathamc00?label=Stars&style=for-the-badge&color=8b5cf6)
+
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=prathamc00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```yaml
+name: "Prathmesh Chavan"
+role: "Software Engineer | AI/ML Enthusiast"
+focus: ["Artificial Intelligence", "Machine Learning", "Full Stack Development"]
+philosophy: "Build. Break. Fix. Learn. Repeat."
+```
+
+I'm a tech enthusiast who thrives on **learning by building**. My core focus lies in **Artificial Intelligence and Machine Learning**, where I enjoy taking abstract ideas and engineering them into real, working products. Alongside AI/ML, I work across the full stack — designing clean frontends, building robust backend systems, and deploying them on modern cloud infrastructure.
+
+I approach engineering with a **product mindset** — not just writing code that works, but building systems that scale, perform, and solve real problems. I'm still early in my journey, but every project teaches me something new, and every bug fixed is a lesson banked.
+
+<div align="center">
+
+### 🎯 Open To
+
+![Internships](https://img.shields.io/badge/Internships-Open-6D28D9?style=flat-square)
+![Full--Time](https://img.shields.io/badge/Full--Time%20Roles-Open-7C3AED?style=flat-square)
+![Freelance](https://img.shields.io/badge/Freelance%20Projects-Open-8B5CF6?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Open%20Source%20Collaboration-Open-A78BFA?style=flat-square)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Redux](https://skillicons.dev/icons?i=redux)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Sass](https://skillicons.dev/icons?i=sass)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+
+### Backend & Databases
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Flask](https://skillicons.dev/icons?i=flask)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
+### AI / ML
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://skillicons.dev/icons?i=numpy)
+![Pandas](https://skillicons.dev/icons?i=pandas)
+
+### Cloud, DevOps & Tooling
+![AWS](https://skillicons.dev/icons?i=aws)
+![GCP](https://skillicons.dev/icons?i=gcp)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+---
+
+## 🤖 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:--|:--:|:--|
+| **Machine Learning Fundamentals** | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, feature engineering |
+| **Deep Learning** | ⭐⭐⭐⭐☆ | Neural networks with PyTorch & TensorFlow, CNNs, model training pipelines |
+| **Natural Language Processing** | ⭐⭐⭐☆☆ | Text classification, embeddings, transformer-based models |
+| **Data Engineering & Analysis** | ⭐⭐⭐⭐☆ | Pandas, NumPy, data cleaning, visualization with Matplotlib/Plotly |
+| **MLOps & Deployment** | ⭐⭐⭐☆☆ | Model serving via FastAPI/Flask, experiment tracking with MLflow |
+| **Applied AI Projects** | ⭐⭐⭐⭐☆ | End-to-end ML product development from data to deployment |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🔹 AI-Powered Content Assistant</b></summary>
+<br/>
+
+An intelligent assistant that leverages ML models to analyze, summarize, and generate content, built as a full-stack product with a production-ready inference pipeline.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Python, FastAPI, React, PyTorch, MongoDB |
+| **Scale** | Handles concurrent inference requests with async processing |
+| **Performance** | Optimized inference latency via model batching |
+| **Security** | JWT-based auth, rate limiting, input sanitization |
+| **Impact** | Streamlined content workflows for end users |
+| **Repository** | [View Repo](https://github.com/prathamc00) |
+
+This project involved designing an end-to-end pipeline — from data preprocessing and model fine-tuning to building a responsive frontend and deploying a scalable API layer, with a strong focus on latency optimization and reliability.
+
+</details>
+
+<details>
+<summary><b>🔹 Full Stack SaaS Platform</b></summary>
+<br/>
+
+A multi-tenant SaaS application with real-time features, built to demonstrate scalable full-stack architecture and clean UX.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | Next.js, Node.js, PostgreSQL, Redis, Tailwind CSS |
+| **Scale** | Multi-tenant architecture supporting isolated workspaces |
+| **Performance** | Server-side rendering with edge caching |
+| **Security** | Role-based access control, encrypted credentials |
+| **Impact** | Reduced onboarding time for new users |
+| **Repository** | [View Repo](https://github.com/prathamc00) |
+
+Built with an emphasis on developer experience and maintainability — modular component architecture, typed API contracts, and CI/CD pipelines for automated testing and deployment.
+
+</details>
+
+<details>
+<summary><b>🔹 Real-Time Data Analytics Dashboard</b></summary>
+<br/>
+
+A data visualization platform that ingests live data streams and presents actionable insights through interactive dashboards.
+
+| Attribute | Details |
+|:--|:--|
+| **Stack** | React, Flask, WebSockets, Plotly, Firebase |
+| **Scale** | Real-time updates across multiple concurrent clients |
+| **Performance** | Sub-second data refresh with optimized socket handling |
+| **Security** | Firebase Auth with token verification |
+| **Impact** | Enabled faster, data-driven decision making |
+| **Repository** | [View Repo](https://github.com/prathamc00) |
+
+Focused on real-time system design — implementing WebSocket-based data streaming, efficient state management, and a clean, responsive visualization layer.
+
+</details>
+
+---
+
+## 💼 Experience
+
+### Software Engineering Intern
+**[Company Name]**
+`[Month Year] – [Month Year]`
+
+Contributed to the design and development of scalable web applications and AI-driven features within a cross-functional engineering team.
+
+**Scope of Work:**
+- Developed and maintained full-stack features using React and Node.js
+- Built and integrated ML-based modules into production workflows
+- Collaborated with senior engineers on system design and code reviews
+- Improved application performance through profiling and optimization
+
+**Skills:** `React` `Node.js` `Python` `REST APIs` `Git` `Agile`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:--|:--|
+| 🥇 Hackathon Participant | Built AI-driven solutions under time constraints in competitive hackathons |
+| 📜 Academic Excellence | Consistent academic performance in Computer Science coursework |
+| 🌟 Open Source Contributor | Active contributions to open-source repositories on GitHub |
+| 💡 Personal Projects | Self-driven end-to-end AI/ML and full-stack product builds |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+**AWS**
+
+![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Oracle**
+
+![Oracle Certified](https://img.shields.io/badge/Oracle-Certified%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+**Cisco**
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## 👨‍💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/prathamc00)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/prathamc00)
+[![HackerRank](https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prathamc00)
+[![CodeChef](https://img.shields.io/badge/CodeChef-A78BFA?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prathamc00)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prathamc00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C8B6FF&bg_color=0D1117" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamc00&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C8B6FF" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamc00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C8B6FF" width="49%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prathamc00&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamc00&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C8B6FF" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prathamc00/prathamc00/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced Deep Learning & Transformer Architectures
+  - System Design for Scalable Applications
+  - Cloud-Native Deployment Patterns
+
+building:
+  - AI-powered full-stack products
+  - Personal portfolio & open-source tools
+
+exploring:
+  - Large Language Models (LLMs)
+  - MLOps best practices
+  - Distributed Systems
+
+open_to:
+  - Internships
+  - Full-Time Software Engineering Roles
+  - Open Source Collaboration
+```
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshc002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-chavan-055556378/)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamc00)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://prathmesh-portofolio.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is the closest thing we have to magic — I'm just here to keep casting spells."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+
+</div>
