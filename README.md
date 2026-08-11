@@ -5,9 +5,8 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+systems%2C+one+commit+at+a+time;AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;Turning+ideas+into+production-grade+software;Currently+exploring+LLMs+%26+Applied+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&height=50&lines=Building+intelligent+systems%2C+one+commit+at+a+time;AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;Turning+ideas+into+production-grade+software;Currently+exploring+LLMs+%26+Applied+ML" alt="Typing SVG" />
 </a>
-
 <br/><br/>
 
 ![Academic](https://img.shields.io/badge/Engineering-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
