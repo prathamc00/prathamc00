@@ -57,6 +57,24 @@ I approach engineering with a **product mindset** — not just writing code that
 
 ---
 
+## 💡 Interests
+
+<div align="center">
+
+![Building Projects](https://img.shields.io/badge/Building%20Projects-6D28D9?style=for-the-badge&logo=rocket&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-8B5CF6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-A78BFA?style=for-the-badge&logo=cloudflare&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-7C3AED?style=for-the-badge&logo=devpost&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-8B5CF6?style=for-the-badge&logo=steam&logoColor=white)
+
+</div>
+
+I love turning ideas into working products — there's nothing quite like the moment a project finally runs end-to-end. Outside of code, I enjoy competing in hackathons, exploring new tech trends, and unwinding with some gaming.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
