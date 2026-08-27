@@ -182,7 +182,6 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 ---
 
-
 **Skills:** `React` `Node.js` `Python` `REST APIs` `Git` `Agile`
 
 ---
@@ -193,10 +192,10 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 | Recognition | Details |
 |:--|:--|
-|  Hackathon Participant | Built AI-driven solutions under time constraints in competitive hackathons |
-|  Academic Excellence | Consistent academic performance in Computer Science coursework |
-|  Open Source Contributor | Active contributions to open-source repositories on GitHub |
-|  Personal Projects | Self-driven end-to-end AI/ML and full-stack product builds |
+| Hackathon Participant | Built AI-driven solutions under time constraints in competitive hackathons |
+| Academic Excellence | Consistent academic performance in Computer Science coursework |
+| Open Source Contributor | Active contributions to open-source repositories on GitHub |
+| Personal Projects | Self-driven end-to-end AI/ML and full-stack product builds |
 
 </div>
 
@@ -239,10 +238,10 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=prathamc00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=38BDF8&icon_color=06B6D4&text_color=E0F2FE&bg_color=07111F" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=prathamc00&theme=tokyonight&hide_border=true&background=07111F&ring=06B6D4&fire=38BDF8&currStreakLabel=E0F2FE" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prathamc00&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=38BDF8&icon_color=06B6D4&text_color=E0F2FE&bg_color=07111F&cache_seconds=86400" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=prathamc00&theme=github-dark-blue&hide_border=true&background=07111F&ring=06B6D4&fire=38BDF8&currStreakLabel=E0F2FE" width="49%"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prathamc00&layout=compact&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=38BDF8&text_color=E0F2FE" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamc00&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=07111F&title_color=38BDF8&text_color=E0F2FE&cache_seconds=86400" width="49%"/>
 
 </div>
 
