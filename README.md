@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0B2A43,100:0F172A&height=280&section=header&text=Prathmesh%20Chavan&fontSize=60&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F05,50:3A1F0B,100:17110B&height=280&section=header&text=Prathmesh%20Chavan&fontSize=60&fontColor=FFF7ED&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+intelligent+systems%2C+one+commit+at+a+time;AI+%2F+ML+Engineer+%7C+Turning+ideas+into+production-grade+software;Currently+exploring+LLMs+%26+Applied+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FB923C&center=true&vCenter=true&width=800&lines=Building+intelligent+systems%2C+one+commit+at+a+time;AI+%2F+ML+Engineer+%7C+Turning+ideas+into+production-grade+software;Currently+exploring+LLMs+%26+Applied+ML" alt="Typing SVG" />
 </a>
 <br/><br/>
 
-![Academic](https://img.shields.io/badge/Engineering-Computer%20Science-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Bengaluru,India-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Academic](https://img.shields.io/badge/Engineering-Computer%20Science-EA580C?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Bengaluru,India-C2410C?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://prathmeshhchavan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-chavan-055556378/)
-[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshc002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1E40AF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamc00)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white)](https://prathmeshhchavan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EA580C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-chavan-055556378/)
+[![Email](https://img.shields.io/badge/Email-C2410C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshc002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-9A3412?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamc00)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prathamc00&label=Profile%20Views&color=2563eb&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/prathamc00?label=Followers&style=for-the-badge&color=0ea5e9)
-![Stars](https://img.shields.io/github/stars/prathamc00?label=Stars&style=for-the-badge&color=06b6d4)
+![Profile Views](https://komarev.com/ghpvc/?username=prathamc00&label=Profile%20Views&color=ea580c&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/prathamc00?label=Followers&style=for-the-badge&color=f97316)
+![Stars](https://img.shields.io/github/stars/prathamc00?label=Stars&style=for-the-badge&color=fb923c)
 
 </div>
 
@@ -48,10 +48,10 @@ I approach engineering with a **product mindset** — not just writing code that
 
 ###  Open To
 
-![Internships](https://img.shields.io/badge/Internships-Open-2563EB?style=flat-square)
-![Full--Time](https://img.shields.io/badge/Full--Time%20Roles-Open-0EA5E9?style=flat-square)
-![Freelance](https://img.shields.io/badge/Freelance%20Projects-Open-06B6D4?style=flat-square)
-![Collaboration](https://img.shields.io/badge/Open%20Source%20Collaboration-Open-38BDF8?style=flat-square)
+![Internships](https://img.shields.io/badge/Internships-Open-EA580C?style=flat-square)
+![Full--Time](https://img.shields.io/badge/Full--Time%20Roles-Open-F97316?style=flat-square)
+![Freelance](https://img.shields.io/badge/Freelance%20Projects-Open-FB923C?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Open%20Source%20Collaboration-Open-FDBA74?style=flat-square)
 
 </div>
 
@@ -61,13 +61,13 @@ I approach engineering with a **product mindset** — not just writing code that
 
 <div align="center">
 
-![Building Projects](https://img.shields.io/badge/Building%20Projects-2563EB?style=for-the-badge&logo=rocket&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-06B6D4?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-38BDF8?style=for-the-badge&logo=cloudflare&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-2563EB?style=for-the-badge&logo=openai&logoColor=white)
-![Hackathons](https://img.shields.io/badge/Hackathons-0EA5E9?style=for-the-badge&logo=devpost&logoColor=white)
-![Gaming](https://img.shields.io/badge/Gaming-06B6D4?style=for-the-badge&logo=steam&logoColor=white)
+![Building Projects](https://img.shields.io/badge/Building%20Projects-EA580C?style=for-the-badge&logo=rocket&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-F97316?style=for-the-badge&logo=leetcode&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-FB923C?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-FDBA74?style=for-the-badge&logo=cloudflare&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-EA580C?style=for-the-badge&logo=openai&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-F97316?style=for-the-badge&logo=devpost&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-FB923C?style=for-the-badge&logo=steam&logoColor=white)
 
 </div>
 
@@ -213,7 +213,7 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 **NPTEL**
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-06B6D4?style=for-the-badge&logo=googlescholar&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-F97316?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 **Cisco**
 
@@ -225,10 +225,10 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/prathamc00)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0EA5E9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/prathamc00)
-[![HackerRank](https://img.shields.io/badge/HackerRank-06B6D4?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prathamc00)
-[![CodeChef](https://img.shields.io/badge/CodeChef-38BDF8?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prathamc00)
+[![LeetCode](https://img.shields.io/badge/LeetCode-EA580C?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/prathamc00)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-F97316?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/prathamc00)
+[![HackerRank](https://img.shields.io/badge/HackerRank-FB923C?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prathamc00)
+[![CodeChef](https://img.shields.io/badge/CodeChef-FDBA74?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prathamc00)
 
 </div>
 
@@ -238,10 +238,10 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathamc00&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=38BDF8&icon_color=06B6D4&text_color=E0F2FE&bg_color=07111F&cache_seconds=86400" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=prathamc00&theme=github-dark-blue&hide_border=true&background=07111F&ring=06B6D4&fire=38BDF8&currStreakLabel=E0F2FE" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prathamc00&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=FB923C&icon_color=F97316&text_color=FFF7ED&bg_color=1A0F05&cache_seconds=86400" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=prathamc00&theme=github-dark-orange&hide_border=true&background=1A0F05&ring=F97316&fire=FB923C&currStreakLabel=FFF7ED" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamc00&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=07111F&title_color=38BDF8&text_color=E0F2FE&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamc00&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=1A0F05&title_color=FB923C&text_color=FFF7ED&cache_seconds=86400" width="49%"/>
 
 </div>
 
@@ -251,7 +251,7 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamc00&theme=react-dark&hide_border=true&bg_color=07111F&color=38BDF8&line=06B6D4&point=E0F2FE" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamc00&theme=react-dark&hide_border=true&bg_color=1A0F05&color=FB923C&line=F97316&point=FFF7ED" width="100%"/>
 
 </div>
 
@@ -296,10 +296,10 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshc002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-chavan-055556378/)
-[![GitHub](https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamc00)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://prathmeshhchavan.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA580C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshc002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-chavan-055556378/)
+[![GitHub](https://img.shields.io/badge/GitHub-FB923C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamc00)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FDBA74?style=for-the-badge&logo=vercel&logoColor=white)](https://prathmeshhchavan.vercel.app/)
 
 </div>
 
@@ -309,6 +309,6 @@ open_to:
 
 *"Code is the closest thing we have to magic — I'm just here to keep casting spells."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0B2A43,100:07111F&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17110B,50:3A1F0B,100:1A0F05&height=150&section=footer" width="100%"/>
 
 </div>
