@@ -94,18 +94,24 @@ Real-time visualization platform using live data streams and interactive dashboa
 
 <div align="center">
 
-<img src="./profile/github-stats.svg" width="49%" alt="GitHub Stats"/>
-<img src="./profile/top-langs.svg" width="49%" alt="Most Used Languages"/>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="./profile/github-stats.svg" width="100%" alt="GitHub Overview"/>
+</td>
+<td align="center" width="50%">
+<img src="./profile/top-langs.svg" width="100%" alt="Most Used Languages"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="./profile/contribution-activity.svg" width="100%" alt="GitHub Contribution Activity"/>
+<img src="./profile/contribution-activity.svg" width="100%" alt="Contribution Activity"/>
 
-<br/><br/>
+<br/>
 
-![Followers](https://img.shields.io/github/followers/prathamc00?label=Followers&style=for-the-badge&color=F97316)
-![Stars](https://img.shields.io/github/stars/prathamc00?label=Stars&style=for-the-badge&color=FB923C)
-![Profile Views](https://komarev.com/ghpvc/?username=prathamc00&label=Profile%20Views&color=EA580C&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=prathamc00&label=PROFILE%20VIEWS&color=F97316&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
