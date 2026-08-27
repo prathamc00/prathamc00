@@ -1,40 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Prathmesh%20Chavan&fontSize=60&fontColor=C8B6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20&descAlignY=58&descSize=20" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Prathmesh%20Chavan&fontSize=60&fontColor=C8B6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+intelligent+systems%2C+one+commit+at+a+time;AI+%2F+ML+Engineer+%7C+Turning+ideas+into+production-grade+software;Currently+exploring+LLMs+%26+Applied+ML" alt="Typing SVG" />
 </a>
-<br/><br/>
-
-
-
-
-<br/>
-
-
-
-
-
-
-<br/>
-
-
-
-
 
 </div>
 
 <br/>
 
-About Me
+## 👋 About Me
 
+```yaml
 name: "Prathmesh Chavan"
 role: "Software Engineer | AI/ML Enthusiast"
-focus: ["Artificial Intelligence", "Machine Learning",]
+focus: ["Artificial Intelligence", "Machine Learning"]
 philosophy: "Build. Break. Fix. Learn. Repeat."
+```
 
 I'm a tech enthusiast who thrives on learning by building. My core focus lies in Artificial Intelligence and Machine Learning, where I enjoy taking abstract ideas and engineering them into real, working products. Alongside AI/ML, I work across the full stack — designing clean frontends, building robust backend systems, and deploying them on modern cloud infrastructure.
 
@@ -42,131 +25,88 @@ I approach engineering with a product mindset — not just writing code that wor
 
 <div align="center">
 
-Open To
+### 💼 Open To
 
-
-
-
-
-
-</div>
-
-Interests
-
-<div align="center">
-
-
-
-
-
-
-
-
+![Internships](https://img.shields.io/badge/Internships-A78BFA?style=for-the-badge&logo=briefcase&logoColor=white)
+![Full-Time SWE Roles](https://img.shields.io/badge/Full--Time%20SWE%20Roles-8B5CF6?style=for-the-badge&logo=target&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source%20Collaboration-C8B6FF?style=for-the-badge&logo=github&logoColor=black)
 
 </div>
+
+---
+
+## 🎯 Interests
 
 I love turning ideas into working products — there's nothing quite like the moment a project finally runs end-to-end. Outside of code, I enjoy competing in hackathons, exploring new tech trends, and unwinding with some gaming.
 
-🛠️ Tech Stack
-
-Languages
-
-
-
-
-
-
-
-
-Frontend
-
-
-
-
-
-
-
-
-
-Backend & Databases
-
-
-
-
-
-
-
-
-
-AI / ML
-
-
-
-
-
-
-
-Cloud, DevOps & Tooling
-
-
-
-
-
-
-
-
-
-
-
-AI / ML Expertise
-
 <div align="center">
 
-Domain
-
-Proficiency
-
-Details
-
-Machine Learning Fundamentals
-
-⭐⭐⭐⭐☆
-
-Supervised/unsupervised learning, model evaluation, feature engineering
-
-Deep Learning
-
-⭐⭐⭐⭐☆
-
-Neural networks with PyTorch & TensorFlow, CNNs, model training pipelines
-
-Natural Language Processing
-
-⭐⭐⭐☆☆
-
-Text classification, embeddings, transformer-based models
-
-Data Engineering & Analysis
-
-⭐⭐⭐⭐☆
-
-Pandas, NumPy, data cleaning, visualization with Matplotlib/Plotly
-
-MLOps & Deployment
-
-⭐⭐⭐☆☆
-
-Model serving via FastAPI/Flask, experiment tracking with MLflow
-
-Applied AI Projects
-
-⭐⭐⭐⭐☆
-
-End-to-end ML product development from data to deployment
+![Hackathons](https://img.shields.io/badge/Hackathons-302B63?style=flat-square)
+![Gaming](https://img.shields.io/badge/Gaming-302B63?style=flat-square)
+![Tech%20Trends](https://img.shields.io/badge/Tech%20Trends-302B63?style=flat-square)
+![Open%20Source](https://img.shields.io/badge/Open%20Source-302B63?style=flat-square)
 
 </div>
 
-Featured Projects
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Cloud, DevOps & Tooling**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 🧠 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Machine Learning Fundamentals | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, feature engineering |
+| Deep Learning | ⭐⭐⭐⭐☆ | Neural networks with PyTorch & TensorFlow, CNNs, model training pipelines |
+| Natural Language Processing | ⭐⭐⭐☆☆ | Text classification, embeddings, transformer-based models |
+| Data Engineering & Analysis | ⭐⭐⭐⭐☆ | Pandas, NumPy, data cleaning, visualization with Matplotlib/Plotly |
+| MLOps & Deployment | ⭐⭐⭐☆☆ | Model serving via FastAPI/Flask, experiment tracking with MLflow |
+| Applied AI Projects | ⭐⭐⭐⭐☆ | End-to-end ML product development from data to deployment |
+
+---
+
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🔹 AI-Powered Content Assistant</b></summary>
@@ -174,33 +114,14 @@ Featured Projects
 
 An intelligent assistant that leverages ML models to analyze, summarize, and generate content, built as a full-stack product with a production-ready inference pipeline.
 
-Attribute
-
-Details
-
-Stack
-
-Python, FastAPI, React, PyTorch, MongoDB
-
-Scale
-
-Handles concurrent inference requests with async processing
-
-Performance
-
-Optimized inference latency via model batching
-
-Security
-
-JWT-based auth, rate limiting, input sanitization
-
-Impact
-
-Streamlined content workflows for end users
-
-Repository
-
-View Repo
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, FastAPI, React, PyTorch, MongoDB |
+| **Scale** | Handles concurrent inference requests with async processing |
+| **Performance** | Optimized inference latency via model batching |
+| **Security** | JWT-based auth, rate limiting, input sanitization |
+| **Impact** | Streamlined content workflows for end users |
+| **Repository** | [View Repo](https://github.com/prathamc00) |
 
 This project involved designing an end-to-end pipeline — from data preprocessing and model fine-tuning to building a responsive frontend and deploying a scalable API layer, with a strong focus on latency optimization and reliability.
 
@@ -212,107 +133,70 @@ This project involved designing an end-to-end pipeline — from data preprocessi
 
 A data visualization platform that ingests live data streams and presents actionable insights through interactive dashboards.
 
-Attribute
-
-Details
-
-Stack
-
-React, Flask, WebSockets, Plotly, Firebase
-
-Scale
-
-Real-time updates across multiple concurrent clients
-
-Performance
-
-Sub-second data refresh with optimized socket handling
-
-Security
-
-Firebase Auth with token verification
-
-Impact
-
-Enabled faster, data-driven decision making
-
-Repository
-
-View Repo
+| Attribute | Details |
+|---|---|
+| **Stack** | React, Flask, WebSockets, Plotly, Firebase |
+| **Scale** | Real-time updates across multiple concurrent clients |
+| **Performance** | Sub-second data refresh with optimized socket handling |
+| **Security** | Firebase Auth with token verification |
+| **Impact** | Enabled faster, data-driven decision making |
+| **Repository** | [View Repo](https://github.com/prathamc00) |
 
 Focused on real-time system design — implementing WebSocket-based data streaming, efficient state management, and a clean, responsive visualization layer.
 
 </details>
 
-Skills: React Node.js Python REST APIs Git Agile
+**Skills:** `React` `Node.js` `Python` `REST APIs` `Git` `Agile`
 
-Achievements
+---
 
-<div align="center">
+## 🏆 Achievements
 
-Recognition
+| Recognition | Details |
+|---|---|
+| Hackathon Participant | Built AI-driven solutions under time constraints in competitive hackathons |
+| Academic Excellence | Consistent academic performance in Computer Science coursework |
+| Open Source Contributor | Active contributions to open-source repositories on GitHub |
+| Personal Projects | Self-driven end-to-end AI/ML and full-stack product builds |
 
-Details
+---
 
-Hackathon Participant
+## 📜 Certifications
 
-Built AI-driven solutions under time constraints in competitive hackathons
+![AWS](https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-1E3A8A?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-Academic Excellence
+---
 
-Consistent academic performance in Computer Science coursework
-
-Open Source Contributor
-
-Active contributions to open-source repositories on GitHub
-
-Personal Projects
-
-Self-driven end-to-end AI/ML and full-stack product builds
-
-</div>
-
-Certifications
-
-AWS
-
-
-
-Oracle
-
-
-
-NPTEL
-
-
-
-Cisco
-
-
-
-Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
 
-
-
-
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/prathamc00)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
 
 </div>
 
-GitHub Analytics
+> ⚠️ Replace the links above with your actual profile URLs.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=prathamc00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C8B6FF&bg_color=0D1117" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=prathamc00&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C8B6FF" width="49%"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prathamc00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C8B6FF" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prathamc00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C8B6FF" width="60%"/>
 
 </div>
 
-Contribution Activity
+### 📈 Contribution Activity
 
 <div align="center">
 
@@ -320,7 +204,7 @@ Contribution Activity
 
 </div>
 
-Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -328,8 +212,11 @@ Contribution Snake
 
 </div>
 
-Current Focus
+---
 
+## 🎯 Current Focus
+
+```yaml
 learning:
   - Advanced Deep Learning & Transformer Architectures
   - System Design for Scalable Applications
@@ -348,21 +235,26 @@ open_to:
   - Internships
   - Full-Time Software Engineering Roles
   - Open Source Collaboration
+```
 
-🔗 Connect With Me
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
 
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamc00)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
+> ⚠️ Replace `your-profile`, `your-handle`, and `your-email@example.com` with your real details.
+
 <div align="center">
 
-"Code is the closest thing we have to magic — I'm just here to keep casting spells."
+*"Code is the closest thing we have to magic — I'm just here to keep casting spells."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
