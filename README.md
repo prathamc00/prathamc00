@@ -157,9 +157,25 @@ A real-time visualization platform that ingests live data streams and presents a
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/prathamc00?label=Followers&style=for-the-badge&color=F97316)
-![Stars](https://img.shields.io/github/stars/prathamc00?label=Total%20Stars&style=for-the-badge&color=FB923C)
-![Profile Views](https://komarev.com/ghpvc/?username=prathamc00&label=Profile%20Views&color=EA580C&style=for-the-badge)
+<a href="https://github.com/prathamc00">
+<img src="https://github-readme-stats.vercel.app/api?username=prathamc00&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=1A0F05&title_color=FB923C&icon_color=F97316&text_color=FFF7ED&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/prathamc00">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamc00&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=1A0F05&title_color=FB923C&text_color=FFF7ED&cache_seconds=86400" width="49%" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/prathamc00">
+<img src="https://streak-stats.demolab.com/?user=prathamc00&hide_border=true&theme=dark&background=1A0F05&ring=F97316&fire=FB923C&currStreakLabel=FFF7ED&sideLabels=FB923C&dates=FDBA74" width="70%" alt="GitHub Contribution Streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/prathamc00">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamc00&bg_color=1A0F05&color=FB923C&line=F97316&point=FFF7ED&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+</a>
 
 </div>
 
