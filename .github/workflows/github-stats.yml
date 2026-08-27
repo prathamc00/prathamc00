@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Generate analytics SVGs
+      - name: Generate analytics cards
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: prathamc00
@@ -32,47 +32,88 @@ jobs:
               req=urllib.request.Request(url,headers=headers)
               with urllib.request.urlopen(req) as r: return json.load(r)
 
+          def gql(query, variables):
+              data=json.dumps({'query':query,'variables':variables}).encode()
+              req=urllib.request.Request('https://api.github.com/graphql',data=data,headers={**headers,'Content-Type':'application/json'})
+              with urllib.request.urlopen(req) as r: return json.load(r)['data']
+
           profile=get(f'https://api.github.com/users/{user}')
           repos=get(f'https://api.github.com/users/{user}/repos?per_page=100&sort=updated')
-
           languages=Counter()
           for repo in repos:
               if repo.get('fork'): continue
               try: languages.update(get(repo['languages_url']))
               except Exception: pass
 
-          total=sum(languages.values()) or 1
-          top=languages.most_common(6)
+          query='query($login:String!){user(login:$login){pullRequests(first:1){totalCount} issues(first:1){totalCount} contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{contributionLevel contributionCount date}}}}}}'
+          data=gql(query,{'login':user})['user']
+          cal=data['contributionsCollection']['contributionCalendar']
+          total_contrib=cal['totalContributions']
+          prs=data['pullRequests']['totalCount']; issues=data['issues']['totalCount']
           stars=sum(r.get('stargazers_count',0) for r in repos)
-          orange='#F97316'; bright='#FB923C'; pale='#FDBA74'; text='#FFF7ED'; muted='#C9B8A8'; bg='#120B07'; card='#1C1009'; track='#3A2415'
+          commits=sum(d['contributionCount'] for w in cal['weeks'] for d in w['contributionDays'])
+
+          # Current and longest streak from contribution calendar.
+          days=[d['contributionCount']>0 for w in cal['weeks'] for d in w['contributionDays']]
+          current=0
+          for active in reversed(days):
+              if active: current+=1
+              elif current: break
+          longest=run=0
+          for active in days:
+              run=run+1 if active else 0; longest=max(longest,run)
+
+          orange='#F97316'; bright='#FB923C'; gold='#FDBA74'; text='#FFF7ED'; muted='#B8A99A'; bg='#0D0906'; card='#17100B'; panel='#21140B'; line='#3A2617'
           os.makedirs('profile',exist_ok=True)
           date=datetime.now(timezone.utc).strftime('%d %b %Y')
 
-          stats=f'''<svg xmlns="http://www.w3.org/2000/svg" width="495" height="235"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#F97316"/><stop offset="1" stop-color="#FB923C"/></linearGradient></defs><rect width="495" height="235" rx="14" fill="{card}" stroke="#3A2415"/><rect x="24" y="22" width="42" height="4" rx="2" fill="url(#g)"/><text x="24" y="55" fill="{text}" font-family="Arial" font-size="21" font-weight="700">GitHub Overview</text><text x="24" y="76" fill="{muted}" font-family="Arial" font-size="12">Live profile metrics</text><rect x="24" y="96" width="139" height="82" rx="10" fill="{bg}"/><rect x="178" y="96" width="139" height="82" rx="10" fill="{bg}"/><rect x="332" y="96" width="139" height="82" rx="10" fill="{bg}"/><text x="38" y="119" fill="{pale}" font-family="Arial" font-size="11">REPOSITORIES</text><text x="38" y="151" fill="{bright}" font-family="Arial" font-size="27" font-weight="700">{profile.get('public_repos',0)}</text><text x="192" y="119" fill="{pale}" font-family="Arial" font-size="11">FOLLOWERS</text><text x="192" y="151" fill="{bright}" font-family="Arial" font-size="27" font-weight="700">{profile.get('followers',0)}</text><text x="346" y="119" fill="{pale}" font-family="Arial" font-size="11">TOTAL STARS</text><text x="346" y="151" fill="{bright}" font-family="Arial" font-size="27" font-weight="700">{stars}</text><text x="24" y="210" fill="{muted}" font-family="Arial" font-size="11">Last refreshed {date}</text></svg>'''
+          def esc(s): return str(s).replace('&','&amp;').replace('<','&lt;').replace('>','&gt;')
+          def svg_open(w,h,title,subtitle):
+              return f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}"><defs><linearGradient id="o" x1="0" x2="1"><stop stop-color="{orange}"/><stop offset="1" stop-color="{bright}"/></linearGradient></defs><rect width="{w}" height="{h}" rx="16" fill="{card}" stroke="{line}"/><rect x="24" y="22" width="44" height="4" rx="2" fill="url(#o)"/><text x="24" y="55" fill="{text}" font-family="Arial,sans-serif" font-size="21" font-weight="700">{title}</text><text x="24" y="75" fill="{muted}" font-family="Arial,sans-serif" font-size="12">{subtitle}</text>'
+
+          # Stats card: closer to the reference design, with 5 useful metrics.
+          items=[('TOTAL STARS',stars),('COMMITS',commits),('FOLLOWERS',profile.get('followers',0)),('PULL REQUESTS',prs),('ISSUES',issues)]
+          x=24
+          stats=svg_open(1000,245,'GitHub Overview','A quick snapshot of your open-source activity')
+          for label,val in items:
+              stats+=f'<rect x="{x}" y="98" width="176" height="92" rx="12" fill="{bg}" stroke="{line}"/><text x="{x+16}" y="123" fill="{gold}" font-family="Arial,sans-serif" font-size="10" font-weight="700">{label}</text><text x="{x+16}" y="162" fill="{bright}" font-family="Arial,sans-serif" font-size="27" font-weight="700">{val:,}</text>'
+              x+=190
+          stats+=f'<text x="24" y="220" fill="{muted}" font-family="Arial,sans-serif" font-size="11">Updated {date} · {profile.get("public_repos",0)} public repositories</text></svg>'
           open('profile/github-stats.svg','w').write(stats)
 
-          bars=[]; y=82
+          # Languages card.
+          total_lang=sum(languages.values()) or 1; top=languages.most_common(7)
+          langs=svg_open(1000,300,'Most Used Languages','Based on language bytes across your public repositories')
+          y=105
           for name,count in top:
-              pct=count/total*100; width=416*pct/100
-              bars.append(f'<text x="28" y="{y}" fill="{text}" font-family="Arial" font-size="13" font-weight="600">{name}</text><text x="467" y="{y}" text-anchor="end" fill="{pale}" font-family="Arial" font-size="12">{pct:.1f}%</text><rect x="28" y="{y+10}" width="439" height="8" rx="4" fill="{track}"/><rect x="28" y="{y+10}" width="{max(width,3):.1f}" height="8" rx="4" fill="{bright}"/>'); y+=38
-          langs=f'''<svg xmlns="http://www.w3.org/2000/svg" width="495" height="330"><rect width="495" height="330" rx="14" fill="{card}" stroke="#3A2415"/><rect x="24" y="22" width="42" height="4" rx="2" fill="{orange}"/><text x="24" y="55" fill="{text}" font-family="Arial" font-size="21" font-weight="700">Most Used Languages</text><text x="24" y="74" fill="{muted}" font-family="Arial" font-size="12">Across your public repositories</text>{''.join(bars)}</svg>'''
+              pct=count/total_lang*100; width=900*pct/100
+              langs+=f'<text x="24" y="{y}" fill="{text}" font-family="Arial,sans-serif" font-size="13" font-weight="600">{esc(name)}</text><text x="976" y="{y}" text-anchor="end" fill="{gold}" font-family="Arial,sans-serif" font-size="12">{pct:.1f}%</text><rect x="24" y="{y+10}" width="952" height="7" rx="3.5" fill="{line}"/><rect x="24" y="{y+10}" width="{max(4,width):.1f}" height="7" rx="3.5" fill="url(#o)"/>'
+              y+=30
+          langs+='</svg>'
           open('profile/top-langs.svg','w').write(langs)
 
-          query='query($login:String!){user(login:$login){contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{contributionLevel}}}}}}'
-          payload=json.dumps({'query':query,'variables':{'login':user}}).encode()
-          req=urllib.request.Request('https://api.github.com/graphql',data=payload,headers={**headers,'Content-Type':'application/json'})
-          with urllib.request.urlopen(req) as r: cal=json.load(r)['data']['user']['contributionsCollection']['contributionCalendar']
-          levels={'NONE':'#24160D','FIRST_QUARTILE':'#7C2D12','SECOND_QUARTILE':'#C2410C','THIRD_QUARTILE':'#EA580C','FOURTH_QUARTILE':'#FB923C'}
-          cells=[]
-          for wi,w in enumerate(cal['weeks']):
-              for di,d in enumerate(w['contributionDays']): cells.append(f'<rect x="{30+wi*11}" y="{62+di*11}" width="8" height="8" rx="2" fill="{levels.get(d["contributionLevel"],levels["NONE"])}"/>')
-          activity=f'''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="175"><rect width="1000" height="175" rx="14" fill="{card}" stroke="#3A2415"/><rect x="28" y="22" width="42" height="4" rx="2" fill="{orange}"/><text x="28" y="51" fill="{text}" font-family="Arial" font-size="20" font-weight="700">Contribution Activity</text><text x="28" y="68" fill="{muted}" font-family="Arial" font-size="11">Your GitHub activity over the last year</text>{''.join(cells)}<text x="28" y="158" fill="{pale}" font-family="Arial" font-size="12" font-weight="600">{cal['totalContributions']} contributions in the last year</text></svg>'''
-          open('profile/contribution-activity.svg','w').write(activity)
+          # Streak card.
+          streak=svg_open(1000,220,'Contribution Streak','Consistency over the last year')
+          streak+=f'<rect x="24" y="100" width="300" height="82" rx="12" fill="{bg}" stroke="{line}"/><rect x="350" y="100" width="300" height="82" rx="12" fill="{bg}" stroke="{line}"/><rect x="676" y="100" width="300" height="82" rx="12" fill="{bg}" stroke="{line}"/><text x="44" y="126" fill="{gold}" font-family="Arial,sans-serif" font-size="10" font-weight="700">CURRENT STREAK</text><text x="44" y="159" fill="{bright}" font-family="Arial,sans-serif" font-size="25" font-weight="700">{current} days</text><text x="370" y="126" fill="{gold}" font-family="Arial,sans-serif" font-size="10" font-weight="700">LONGEST STREAK</text><text x="370" y="159" fill="{bright}" font-family="Arial,sans-serif" font-size="25" font-weight="700">{longest} days</text><text x="696" y="126" fill="{gold}" font-family="Arial,sans-serif" font-size="10" font-weight="700">TOTAL CONTRIBUTIONS</text><text x="696" y="159" fill="{bright}" font-family="Arial,sans-serif" font-size="25" font-weight="700">{total_contrib:,}</text></svg>'
+          open('profile/streak.svg','w').write(streak)
+
+          # Contribution skyline: weekly bars, inspired by the reference skyline but fully local.
+          weekly=[]
+          for w in cal['weeks']:
+              weekly.append(sum(d['contributionCount'] for d in w['contributionDays']))
+          maxv=max(weekly) or 1; width=952/max(len(weekly),1)
+          sky=svg_open(1000,300,'Contribution Skyline','Weekly contribution intensity · last 52 weeks')
+          base=255; usable=145
+          for i,v in enumerate(weekly[-52:]):
+              h=max(3,usable*v/maxv); x=24+i*width; y=base-h
+              sky+=f'<rect x="{x:.1f}" y="{y:.1f}" width="{max(3,width-2):.1f}" height="{h:.1f}" rx="2" fill="{orange if v<maxv*0.65 else bright}" opacity="{0.35+0.65*(v/maxv):.2f}"/>'
+          sky+=f'<line x1="24" y1="{base}" x2="976" y2="{base}" stroke="{line}"/><text x="24" y="278" fill="{gold}" font-family="Arial,sans-serif" font-size="11" font-weight="600">{total_contrib:,} contributions in the last year</text><text x="976" y="278" text-anchor="end" fill="{muted}" font-family="Arial,sans-serif" font-size="11">Less → More activity</text></svg>'
+          open('profile/contribution-skyline.svg','w').write(sky)
           PY
-      - name: Commit analytics cards
+      - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub analytics"
+          git diff --cached --quiet || git commit -m "chore: refresh GitHub analytics"
           git push
