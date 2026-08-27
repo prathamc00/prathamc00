@@ -24,39 +24,50 @@ jobs:
           import json, os, urllib.request
           from collections import Counter
           from datetime import datetime, timezone
+
           token=os.environ['GH_TOKEN']; user=os.environ['USERNAME']
           headers={'Authorization':f'Bearer {token}','Accept':'application/vnd.github+json'}
+
           def get(url):
               req=urllib.request.Request(url,headers=headers)
               with urllib.request.urlopen(req) as r: return json.load(r)
+
           profile=get(f'https://api.github.com/users/{user}')
           repos=get(f'https://api.github.com/users/{user}/repos?per_page=100&sort=updated')
+
           languages=Counter()
           for repo in repos:
               if repo.get('fork'): continue
               try: languages.update(get(repo['languages_url']))
               except Exception: pass
+
           total=sum(languages.values()) or 1
           top=languages.most_common(6)
-          orange='#F97316'; light='#FFF7ED'; muted='#FDBA74'; bg='#1A0F05'
+          stars=sum(r.get('stargazers_count',0) for r in repos)
+          orange='#F97316'; bright='#FB923C'; pale='#FDBA74'; text='#FFF7ED'; muted='#C9B8A8'; bg='#120B07'; card='#1C1009'; track='#3A2415'
           os.makedirs('profile',exist_ok=True)
-          date=datetime.now(timezone.utc).strftime('%Y-%m-%d')
-          stats=f'''<svg xmlns="http://www.w3.org/2000/svg" width="495" height="220"><rect width="495" height="220" rx="8" fill="{bg}"/><text x="24" y="38" fill="{orange}" font-family="Arial" font-size="22" font-weight="700">GitHub Stats</text><text x="24" y="78" fill="{light}" font-family="Arial" font-size="15">Public repositories</text><text x="470" y="78" text-anchor="end" fill="{orange}" font-family="Arial" font-size="18">{profile.get('public_repos',0)}</text><text x="24" y="112" fill="{light}" font-family="Arial" font-size="15">Followers</text><text x="470" y="112" text-anchor="end" fill="{orange}" font-family="Arial" font-size="18">{profile.get('followers',0)}</text><text x="24" y="146" fill="{light}" font-family="Arial" font-size="15">Total stars</text><text x="470" y="146" text-anchor="end" fill="{orange}" font-family="Arial" font-size="18">{sum(r.get('stargazers_count',0) for r in repos)}</text><text x="24" y="180" fill="{muted}" font-family="Arial" font-size="13">Updated {date}</text></svg>'''
+          date=datetime.now(timezone.utc).strftime('%d %b %Y')
+
+          stats=f'''<svg xmlns="http://www.w3.org/2000/svg" width="495" height="235"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#F97316"/><stop offset="1" stop-color="#FB923C"/></linearGradient></defs><rect width="495" height="235" rx="14" fill="{card}" stroke="#3A2415"/><rect x="24" y="22" width="42" height="4" rx="2" fill="url(#g)"/><text x="24" y="55" fill="{text}" font-family="Arial" font-size="21" font-weight="700">GitHub Overview</text><text x="24" y="76" fill="{muted}" font-family="Arial" font-size="12">Live profile metrics</text><rect x="24" y="96" width="139" height="82" rx="10" fill="{bg}"/><rect x="178" y="96" width="139" height="82" rx="10" fill="{bg}"/><rect x="332" y="96" width="139" height="82" rx="10" fill="{bg}"/><text x="38" y="119" fill="{pale}" font-family="Arial" font-size="11">REPOSITORIES</text><text x="38" y="151" fill="{bright}" font-family="Arial" font-size="27" font-weight="700">{profile.get('public_repos',0)}</text><text x="192" y="119" fill="{pale}" font-family="Arial" font-size="11">FOLLOWERS</text><text x="192" y="151" fill="{bright}" font-family="Arial" font-size="27" font-weight="700">{profile.get('followers',0)}</text><text x="346" y="119" fill="{pale}" font-family="Arial" font-size="11">TOTAL STARS</text><text x="346" y="151" fill="{bright}" font-family="Arial" font-size="27" font-weight="700">{stars}</text><text x="24" y="210" fill="{muted}" font-family="Arial" font-size="11">Last refreshed {date}</text></svg>'''
           open('profile/github-stats.svg','w').write(stats)
-          bars=[]; y=62
+
+          bars=[]; y=82
           for name,count in top:
-              pct=count/total*100; width=446*pct/100
-              bars.append(f'<text x="24" y="{y}" fill="{light}" font-family="Arial" font-size="14">{name}</text><text x="470" y="{y}" text-anchor="end" fill="{muted}" font-family="Arial" font-size="14">{pct:.1f}%</text><rect x="24" y="{y+8}" width="446" height="7" rx="3" fill="#3A2415"/><rect x="24" y="{y+8}" width="{width:.1f}" height="7" rx="3" fill="{orange}"/>'); y+=45
-          open('profile/top-langs.svg','w').write(f'''<svg xmlns="http://www.w3.org/2000/svg" width="495" height="330"><rect width="495" height="330" rx="8" fill="{bg}"/><text x="24" y="38" fill="{orange}" font-family="Arial" font-size="22" font-weight="700">Most Used Languages</text>{''.join(bars)}</svg>''')
+              pct=count/total*100; width=416*pct/100
+              bars.append(f'<text x="28" y="{y}" fill="{text}" font-family="Arial" font-size="13" font-weight="600">{name}</text><text x="467" y="{y}" text-anchor="end" fill="{pale}" font-family="Arial" font-size="12">{pct:.1f}%</text><rect x="28" y="{y+10}" width="439" height="8" rx="4" fill="{track}"/><rect x="28" y="{y+10}" width="{max(width,3):.1f}" height="8" rx="4" fill="{bright}"/>'); y+=38
+          langs=f'''<svg xmlns="http://www.w3.org/2000/svg" width="495" height="330"><rect width="495" height="330" rx="14" fill="{card}" stroke="#3A2415"/><rect x="24" y="22" width="42" height="4" rx="2" fill="{orange}"/><text x="24" y="55" fill="{text}" font-family="Arial" font-size="21" font-weight="700">Most Used Languages</text><text x="24" y="74" fill="{muted}" font-family="Arial" font-size="12">Across your public repositories</text>{''.join(bars)}</svg>'''
+          open('profile/top-langs.svg','w').write(langs)
+
           query='query($login:String!){user(login:$login){contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{contributionLevel}}}}}}'
           payload=json.dumps({'query':query,'variables':{'login':user}}).encode()
           req=urllib.request.Request('https://api.github.com/graphql',data=payload,headers={**headers,'Content-Type':'application/json'})
           with urllib.request.urlopen(req) as r: cal=json.load(r)['data']['user']['contributionsCollection']['contributionCalendar']
-          levels={'NONE':'#3A2415','FIRST_QUARTILE':'#7C2D12','SECOND_QUARTILE':'#C2410C','THIRD_QUARTILE':'#EA580C','FOURTH_QUARTILE':'#FB923C'}
+          levels={'NONE':'#24160D','FIRST_QUARTILE':'#7C2D12','SECOND_QUARTILE':'#C2410C','THIRD_QUARTILE':'#EA580C','FOURTH_QUARTILE':'#FB923C'}
           cells=[]
           for wi,w in enumerate(cal['weeks']):
-              for di,d in enumerate(w['contributionDays']): cells.append(f'<rect x="{24+wi*11}" y="{58+di*11}" width="8" height="8" rx="2" fill="{levels.get(d["contributionLevel"],levels["NONE"])}"/>')
-          open('profile/contribution-activity.svg','w').write(f'''<svg xmlns="http://www.w3.org/2000/svg" width="820" height="150"><rect width="820" height="150" rx="8" fill="{bg}"/><text x="24" y="30" fill="{orange}" font-family="Arial" font-size="18" font-weight="700">Contribution Activity</text>{''.join(cells)}<text x="24" y="140" fill="{muted}" font-family="Arial" font-size="12">{cal['totalContributions']} contributions in the last year</text></svg>''')
+              for di,d in enumerate(w['contributionDays']): cells.append(f'<rect x="{30+wi*11}" y="{62+di*11}" width="8" height="8" rx="2" fill="{levels.get(d["contributionLevel"],levels["NONE"])}"/>')
+          activity=f'''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="175"><rect width="1000" height="175" rx="14" fill="{card}" stroke="#3A2415"/><rect x="28" y="22" width="42" height="4" rx="2" fill="{orange}"/><text x="28" y="51" fill="{text}" font-family="Arial" font-size="20" font-weight="700">Contribution Activity</text><text x="28" y="68" fill="{muted}" font-family="Arial" font-size="11">Your GitHub activity over the last year</text>{''.join(cells)}<text x="28" y="158" fill="{pale}" font-family="Arial" font-size="12" font-weight="600">{cal['totalContributions']} contributions in the last year</text></svg>'''
+          open('profile/contribution-activity.svg','w').write(activity)
           PY
       - name: Commit analytics cards
         run: |
