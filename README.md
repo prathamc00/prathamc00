@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Prathmesh%20Chavan&fontSize=60&fontColor=A8DADC&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0f0a,50:6b2d0f,100:b3541e&height=280&section=header&text=Prathmesh%20Chavan&fontSize=60&fontColor=FFD8A8&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=800&lines=Building+intelligent+systems%2C+one+commit+at+a+time;AI+%2F+ML+Engineer+%7C+Turning+ideas+into+production-grade+software;Currently+exploring+LLMs+%26+Applied+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFA552&center=true&vCenter=true&width=800&lines=Building+intelligent+systems%2C+one+commit+at+a+time;AI+%2F+ML+Engineer+%7C+Turning+ideas+into+production-grade+software;Currently+exploring+LLMs+%26+Applied+ML" alt="Typing SVG" />
 </a>
 
 </div>
@@ -29,9 +29,9 @@ I approach engineering with a product mindset — not just writing code that wor
 
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Internships-64FFDA?style=for-the-badge&logo=briefcase&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Full--Time%20SWE%20Roles-00BFA6?style=for-the-badge&logo=target&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Open%20Source%20Collaboration-A8DADC?style=for-the-badge&logo=github&logoColor=black"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Internships-FFA552?style=for-the-badge&logo=briefcase&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Full--Time%20SWE%20Roles-FF6B35?style=for-the-badge&logo=target&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Open%20Source%20Collaboration-FFD8A8?style=for-the-badge&logo=github&logoColor=black"/></td>
 </tr>
 </table>
 
@@ -194,10 +194,10 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=prathamc00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=64FFDA&icon_color=00BFA6&text_color=A8DADC&bg_color=0D1117" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=prathamc00&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFA6&fire=64FFDA&currStreakLabel=A8DADC" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=prathamc00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=FFA552&icon_color=FF6B35&text_color=FFD8A8&bg_color=0D1117" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=prathamc00&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B35&fire=FFA552&currStreakLabel=FFD8A8" width="49%"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prathamc00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=A8DADC" width="60%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prathamc00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFA552&text_color=FFD8A8" width="60%"/>
 
 </div>
 
@@ -205,7 +205,7 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamc00&theme=react-dark&hide_border=true&bg_color=0D1117&color=64FFDA&line=00BFA6&point=A8DADC" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamc00&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFA552&line=FF6B35&point=FFD8A8" width="100%"/>
 
 </div>
 
@@ -265,6 +265,6 @@ open_to:
 
 *"Code is the closest thing we have to magic — I'm just here to keep casting spells."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b3541e,50:6b2d0f,100:2b0f0a&height=150&section=footer" width="100%"/>
 
 </div>
