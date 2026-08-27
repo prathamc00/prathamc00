@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F05,50:3A1F0B,100:17110B&height=280&section=header&text=Prathmesh%20Chavan&fontSize=60&fontColor=FFF7ED&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F05,50:3A1F0B,100:17110B&height=280&section=header&text=Prathmesh%20Chavan&fontSize=60&fontColor=FFF7ED&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
@@ -31,12 +31,12 @@
 
 ---
 
-##  About Me
+## About Me
 
 ```yaml
 name: "Prathmesh Chavan"
 role: "Software Engineer | AI/ML Enthusiast"
-focus: ["Artificial Intelligence", "Machine Learning",]
+focus: ["Artificial Intelligence", "Machine Learning"]
 philosophy: "Build. Break. Fix. Learn. Repeat."
 ```
 
@@ -46,7 +46,7 @@ I approach engineering with a **product mindset** — not just writing code that
 
 <div align="center">
 
-###  Open To
+### Open To
 
 ![Internships](https://img.shields.io/badge/Internships-Open-EA580C?style=flat-square)
 ![Full--Time](https://img.shields.io/badge/Full--Time%20Roles-Open-F97316?style=flat-square)
@@ -57,7 +57,7 @@ I approach engineering with a **product mindset** — not just writing code that
 
 ---
 
-##  Interests
+## Interests
 
 <div align="center">
 
@@ -186,7 +186,7 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 ---
 
-##  Achievements
+## Achievements
 
 <div align="center">
 
@@ -201,7 +201,7 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 ---
 
-##  Certifications
+## Certifications
 
 **AWS**
 
@@ -221,7 +221,7 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 ---
 
-##  Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -238,36 +238,44 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathamc00&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=FB923C&icon_color=F97316&text_color=FFF7ED&bg_color=1A0F05&cache_seconds=86400" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=prathamc00&theme=github-dark-orange&hide_border=true&background=1A0F05&ring=F97316&fire=FB923C&currStreakLabel=FFF7ED" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamc00&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=1A0F05&title_color=FB923C&text_color=FFF7ED&cache_seconds=86400" width="49%"/>
+![Followers](https://img.shields.io/github/followers/prathamc00?label=Followers&style=for-the-badge&color=F97316)
+![Stars](https://img.shields.io/github/stars/prathamc00?label=Total%20Stars&style=for-the-badge&color=FB923C)
+![Public Repositories](https://img.shields.io/badge/Public%20Repositories-GitHub-F97316?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=prathamc00&label=Profile%20Views&color=EA580C&style=for-the-badge)
 
 </div>
 
----
-
-##  Contribution Activity
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamc00&theme=react-dark&hide_border=true&bg_color=1A0F05&color=FB923C&line=F97316&point=FFF7ED" width="100%"/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prathamc00&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1)
 
 </div>
 
 ---
 
-##  Contribution Snake
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/prathamc00/prathamc00/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prathamc00&bg_color=1A0F05&color=FB923C&line=F97316&point=FFF7ED&area=true&hide_border=true)
 
 </div>
 
 ---
 
-##  Current Focus
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prathamc00/prathamc00/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## Current Focus
 
 ```yaml
 learning:
