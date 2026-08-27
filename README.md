@@ -96,11 +96,19 @@ Real-time visualization platform using live data streams and interactive dashboa
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="52%" valign="top" align="center">
+
 <img src="./profile/github-stats.svg" width="100%" alt="GitHub Overview"/>
+
+<br/><br/>
+
+<img src="./profile/streak.svg" width="100%" alt="Contribution Streak"/>
+
 </td>
-<td align="center" width="50%">
+<td width="48%" valign="top" align="center">
+
 <img src="./profile/top-langs.svg" width="100%" alt="Most Used Languages"/>
+
 </td>
 </tr>
 </table>
@@ -109,7 +117,7 @@ Real-time visualization platform using live data streams and interactive dashboa
 
 <img src="./profile/contribution-activity.svg" width="100%" alt="Contribution Activity"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=prathamc00&label=PROFILE%20VIEWS&color=F97316&style=for-the-badge" alt="Profile Views"/>
 
