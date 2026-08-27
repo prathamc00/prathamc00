@@ -186,7 +186,7 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 </div>
 
-> ⚠️ Replace the links above with your actual profile URLs.
+> 
 
 ---
 
@@ -259,7 +259,7 @@ open_to:
 
 </div>
 
-> ⚠️ Replace `your-profile`, `your-handle`, and `your-email@example.com` with your real details.
+> 
 
 <div align="center">
 
