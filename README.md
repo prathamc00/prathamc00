@@ -27,9 +27,13 @@ I approach engineering with a product mindset — not just writing code that wor
 
 ### 💼 Open To
 
-![Internships](https://img.shields.io/badge/Internships-A78BFA?style=for-the-badge&logo=briefcase&logoColor=white)
-![Full-Time SWE Roles](https://img.shields.io/badge/Full--Time%20SWE%20Roles-8B5CF6?style=for-the-badge&logo=target&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source%20Collaboration-C8B6FF?style=for-the-badge&logo=github&logoColor=black)
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Internships-A78BFA?style=for-the-badge&logo=briefcase&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Full--Time%20SWE%20Roles-8B5CF6?style=for-the-badge&logo=target&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Open%20Source%20Collaboration-C8B6FF?style=for-the-badge&logo=github&logoColor=black"/></td>
+</tr>
+</table>
 
 </div>
 
@@ -41,10 +45,14 @@ I love turning ideas into working products — there's nothing quite like the mo
 
 <div align="center">
 
-![Hackathons](https://img.shields.io/badge/Hackathons-302B63?style=flat-square)
-![Gaming](https://img.shields.io/badge/Gaming-302B63?style=flat-square)
-![Tech%20Trends](https://img.shields.io/badge/Tech%20Trends-302B63?style=flat-square)
-![Open%20Source](https://img.shields.io/badge/Open%20Source-302B63?style=flat-square)
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Hackathons-302B63?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Gaming-302B63?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Tech%20Trends-302B63?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Open%20Source-302B63?style=flat-square"/></td>
+</tr>
+</table>
 
 </div>
 
@@ -52,44 +60,33 @@ I love turning ideas into working products — there's nothing quite like the mo
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<table>
+<tr><td width="140" valign="top"><b>Languages</b></td><td>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-**Frontend**
+</td></tr>
+<tr><td width="140" valign="top"><b>Frontend</b></td><td>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-**Backend & Databases**
+</td></tr>
+<tr><td width="140" valign="top"><b>Backend & DB</b></td><td>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-**AI / ML**
+</td></tr>
+<tr><td width="140" valign="top"><b>AI / ML</b></td><td>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-**Cloud, DevOps & Tooling**
+</td></tr>
+<tr><td width="140" valign="top"><b>Cloud & DevOps</b></td><td>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</td></tr>
+</table>
 
 ---
 
@@ -163,10 +160,14 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 ## 📜 Certifications
 
-![AWS](https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-1E3A8A?style=for-the-badge)
-![Cisco](https://img.shields.io/badge/Cisco%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/NPTEL-1E3A8A?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Cisco%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></td>
+</tr>
+</table>
 
 ---
 
@@ -174,10 +175,14 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/prathamc00)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
+<table>
+<tr>
+<td align="center"><a href="https://leetcode.com/prathamc00"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a></td>
+<td align="center"><a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a></td>
+<td align="center"><a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a></td>
+<td align="center"><a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a></td>
+</tr>
+</table>
 
 </div>
 
@@ -243,10 +248,14 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamc00)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<table>
+<tr>
+<td align="center"><a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
+<td align="center"><a href="https://github.com/prathamc00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+<td align="center"><a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a></td>
+<td align="center"><a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
+</tr>
+</table>
 
 </div>
 
