@@ -36,7 +36,7 @@
 ```yaml
 name: "Prathmesh Chavan"
 role: "Software Engineer | AI/ML Enthusiast"
-focus: ["Artificial Intelligence", "Machine Learning", "Full Stack Development"]
+focus: ["Artificial Intelligence", "Machine Learning",]
 philosophy: "Build. Break. Fix. Learn. Repeat."
 ```
 
@@ -46,7 +46,7 @@ I approach engineering with a **product mindset** — not just writing code that
 
 <div align="center">
 
-### 🎯 Open To
+###  Open To
 
 ![Internships](https://img.shields.io/badge/Internships-Open-6D28D9?style=flat-square)
 ![Full--Time](https://img.shields.io/badge/Full--Time%20Roles-Open-7C3AED?style=flat-square)
@@ -57,7 +57,7 @@ I approach engineering with a **product mindset** — not just writing code that
 
 ---
 
-## 💡 Interests
+##  Interests
 
 <div align="center">
 
@@ -81,7 +81,6 @@ I love turning ideas into working products — there's nothing quite like the mo
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-![Java](https://skillicons.dev/icons?i=java)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
@@ -188,7 +187,7 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
@@ -203,7 +202,7 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 **AWS**
 
@@ -223,7 +222,7 @@ Focused on real-time system design — implementing WebSocket-based data streami
 
 ---
 
-## 👨‍💻 Coding Profiles
+##  Coding Profiles
 
 <div align="center">
 
