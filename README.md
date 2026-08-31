@@ -39,7 +39,7 @@ I approach engineering with a product mindset — not just writing code that wor
 
 ---
 
-## 🎯 Interests
+##  Interests
 
 I love turning ideas into working products — there's nothing quite like the moment a project finally runs end-to-end. Outside of code, I enjoy competing in hackathons, exploring new tech trends, and unwinding with some gaming.
 
