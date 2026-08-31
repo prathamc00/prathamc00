@@ -90,7 +90,7 @@ I love turning ideas into working products — there's nothing quite like the mo
 
 ---
 
-## 🧠 AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
