@@ -10,7 +10,7 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
 ```yaml
 name: "Prathmesh Chavan"
