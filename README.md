@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Prathmesh Chavan**, a Software Engineer focused on **Artificial Intelligence, Machine Learning, backend engineering, and building practical software products**. I enjoy turning ideas into working systems — from experimenting with ML and LLMs to building APIs, full-stack applications, and deployment pipelines.
+I'm **Prathmesh Chavan**, focused on **Artificial Intelligence, Machine Learning, backend engineering, and building practical software products**. I enjoy turning ideas into working systems — from experimenting with ML and LLMs to building APIs, full-stack applications, and deployment pipelines.
 
 I'm especially interested in the engineering side of AI: building reliable applications around **LLMs, RAG, AI agents, model inference, computer vision, and applied machine learning**. I like exploring how AI can be turned into useful developer tools and products that solve real problems.
 
