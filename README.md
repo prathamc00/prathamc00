@@ -75,9 +75,9 @@ Welcome to my Github Profile Page
 ---
 
 ### :fire: My Stats :
-[![Prathmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathamc00&show_icons=true&theme=tokyonight)](https://github.com/prathamc00)
+[![Prathmesh's GitHub Stats](https://github-stats-extended.vercel.app/api?username=prathamc00&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prathamc00&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-stats-extended.vercel.app/api/streak?username=prathamc00&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
