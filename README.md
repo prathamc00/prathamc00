@@ -83,18 +83,10 @@ Welcome to my Github Profile Page
 
 ### :house: Projects
 
-- [**MANAS — AI Companion**](https://github.com/prathamc00/Manas-AI) — AI-powered conversational application with contextual memory, safety-oriented processing and a full-stack React + FastAPI architecture.
-- [**DeepGuard**](https://github.com/prathamc00/DeepGuard) — AI / deepfake-focused project exploring media authenticity and machine-learning based detection.
-- [**DevPath**](https://github.com/prathamc00/DevPath) — Skill-to-project recommender designed to help developers find useful projects to build.
-- [**Student Learning Portal**](https://github.com/prathamc00/Student-Learning-Portal) — Full-stack educational platform focused on student learning workflows.
-- [**AI Interviewer Bot**](https://github.com/prathamc00/AI-Interviewer-Bot) — AI-driven interview experimentation and automated interaction.
-- [**AI Code Reviewer**](https://github.com/prathamc00/AI-Code-Reviewer) — Exploration of AI-assisted source-code review.
-- [**AI Coding Agent**](https://github.com/prathamc00/AI-coding-agent) — Experimenting with agentic workflows for software development.
-- [**PONN**](https://github.com/prathamc00/PONN) — Machine-learning / AI experimentation project.
-- [**Trading Bot**](https://github.com/prathamc00/Trading-Bot) — Automated trading-system experimentation.
-- [**LLMs from Scratch**](https://github.com/prathamc00/LLMs-from-scratch) — Hands-on exploration of how large language models work internally.
-- [**Naive RAG**](https://github.com/prathamc00/naive-rag) — Retrieval-augmented generation experimentation.
-- [**Web App**](https://github.com/prathamc00/webApp) — Web application development project.
+- [**Facial Recognition System**](https://github.com/prathamc00/Facial-recognition-system) — Computer vision project focused on face detection and recognition.
+- [**DeepFake Detection**](https://github.com/prathamc00/Deepfake-detection-usingAI) — AI/ML project focused on detecting manipulated or synthetic media.
+- [**InBox AleRt**](https://github.com/prathamc00/InBox-AleRt) — A project focused on monitoring and handling inbox activity.
+- [**AI Code Reviewer**](https://github.com/prathamc00/AI-Code-Reviewer) — AI-assisted code review and developer tooling project.
 
 ---
 
