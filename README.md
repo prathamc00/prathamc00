@@ -68,7 +68,6 @@ Welcome to my Github Profile Page
 - Retrieval-Augmented Generation (RAG)
 - Computer Vision & Deep Learning
 - Backend Engineering & APIs
-- Full-Stack Product Development
 - MLOps, Deployment & Cloud Infrastructure
 - Open Source & Developer Tools
 
