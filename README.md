@@ -1,116 +1,79 @@
-### Hi there 👋
+<div align="center">
 
-I'm **Prathmesh Chavan**, focused on **Artificial Intelligence, Machine Learning, backend engineering, and building practical software products**. I enjoy turning ideas into working systems — from experimenting with ML and LLMs to building APIs, full-stack applications, and deployment pipelines.
+# Hey, I'm Prathmesh Chavan 👋
 
-I'm especially interested in the engineering side of AI: building reliable applications around **LLMs, RAG, AI agents, model inference, computer vision, and applied machine learning**. I like exploring how AI can be turned into useful developer tools and products that solve real problems.
+### AI Engineer · Machine Learning · LLM Applications · Computer Vision
 
-I'm also passionate about open source and learning in public. A lot of my work lives in experiments, production-style projects, and contributions that help me understand systems more deeply.
+**Engineering practical AI systems — from models and inference to APIs and applications.**
 
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/prathmesh-chavan-055556378">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/prathamc00">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://prathmeshhchavan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=950&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI+applications+that+solve+problems;Exploring+LLMs%2C+agents+and+model+inference;Learning+by+building%2C+testing+and+shipping" alt="Typing introduction" />
 
-<h1>
-Welcome to my Github Profile Page
-</h1>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://prathmeshhchavan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-chavan-055556378)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshc002@gmail.com)
 
----
-
-### About Me :
-- 🤖 I build applications around **AI, ML, LLMs and AI agents**
-- 🧠 I enjoy working with **RAG, deep learning, computer vision and model inference**
-- ⚙️ I build **backend APIs, full-stack applications and production-style systems**
-- ☁️ I'm interested in **cloud deployment, Docker, MLOps and scalable systems**
-- 🌍 I actively explore **open source, developer tooling and new AI technologies**
-- 🚀 Currently open to **software engineering, AI/ML opportunities and open-source collaboration**
-- ✍️ I learn by building, shipping, debugging, and improving real projects
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+![Open to Work](https://img.shields.io/badge/Open_to_Work-AI%2FML_Engineer-22C55E?style=flat-square)
+![Location](https://img.shields.io/badge/Based_in-Bengaluru-334155?style=flat-square)
 
 </div>
 
 ---
 
-### :brain: Areas I'm Interested In :
-- Artificial Intelligence & Machine Learning
-- Large Language Models & AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Computer Vision & Deep Learning
-- Backend Engineering & APIs
-- MLOps, Deployment & Cloud Infrastructure
-- Open Source & Developer Tools
+## About me
 
----
+I'm an AI/ML-focused engineer building **intelligent software products** across computer vision, deep learning, LLM-assisted tooling, and full-stack integrations. I enjoy the entire engineering loop: **prototype → train/integrate → evaluate → build APIs → deploy → improve**.
 
-### :fire: My Stats :
-[![Prathmesh's GitHub Stats](https://github-stats-extended.vercel.app/api?username=prathamc00&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+- 🧠 **Focus:** AI/ML engineering, LLM applications, AI agents, computer vision and inference optimization
+- 🔧 **What I build:** ML prototypes, AI-powered developer tools, and web applications with AI features
+- 📍 **Location:** Bengaluru, India
+- 🤝 **Open to:** AI Engineer, ML Engineer and related software engineering opportunities
 
-[![Prathmesh's GitHub Streak](https://streak-stats.demolab.com/?user=prathamc00&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+## AI & engineering toolkit
 
----
+**AI / Machine Learning**
 
-### :house: Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-- [**Facial Recognition System**](https://github.com/prathamc00/Facial-recognition-system) — Computer vision project focused on face detection and recognition.
-- [**DeepFake Detection**](https://github.com/prathamc00/Deepfake-detection-usingAI) — AI/ML project focused on detecting manipulated or synthetic media.
-- [**InBox AleRt**](https://github.com/prathamc00/InBox-AleRt) — A project focused on monitoring and handling inbox activity.
-- [**AI Code Reviewer**](https://github.com/prathamc00/AI-Code-Reviewer) — AI-assisted code review and developer tooling project.
+**AI application development**
 
----
+`LLM APIs` · `Prompt engineering` · `Model inference` · `Computer vision` · `AI-assisted automation` · `RAG / agents (exploring)`
 
-### :rocket: Currently Exploring
+**Backend / Applications / Tools**
 
-- Building production-ready AI applications
-- LLMs, RAG and agentic systems
-- Model inference and optimization
-- Backend architecture and scalable APIs
-- Cloud deployment and MLOps
-- Open-source collaboration
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+## Featured AI projects
 
-### :mailbox: How to reach me:
+| Project | Engineering focus |
+| --- | --- |
+| 🛡️ **[Deepfake Detection](https://github.com/prathamc00/Deepfake-detection-usingAI)** | Image/video deepfake detection application with a **FastAPI backend**, **React/TypeScript frontend**, and Docker-based setup. |
+| 👁️ **[Facial Recognition System](https://github.com/prathamc00/Facial-recognition-system-)** | Real-time face recognition with **TensorFlow, OpenCV, MobileNetV2**, liveness detection and attendance logging. |
+| 🔍 **[AI Code Reviewer](https://github.com/prathamc00/AI-Code-Reviewer)** | Two-stage code analysis: **Python AST/static checks + LLM-assisted review** for actionable findings. |
+| 📬 **[InboxAlert](https://github.com/prathamc00/InBox-AleRt)** | AI-assisted inbox prioritization with email monitoring, importance scoring, and WhatsApp alerts. |
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-chavan-055556378)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamc00)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prathmeshhchavan.vercel.app/)
-[![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathmeshc002@gmail.com)
+> Explore the repositories for implementation details, setup instructions and ongoing improvements.
+
+## What I'm exploring next
+
+- **Efficient model inference:** latency, memory usage and resource-constrained hardware
+- **Agentic workflows:** practical AI assistants and developer automation
+- **AI delivery:** testing, API integration, deployment and reliability
+
+## GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamc00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=prathamc00&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+</div>
 
 ---
 
 <div align="center">
 
-###  Thanks for visiting my profile!
+**Interested in AI projects, engineering collaboration, or opportunities?**
+
+[**Let's connect on LinkedIn**](https://linkedin.com/in/prathmesh-chavan-055556378) · [**View my portfolio**](https://prathmeshhchavan.vercel.app/) · [**Email me**](mailto:prathmeshc002@gmail.com)
+
+<sub>Build → Measure → Improve → Ship.</sub>
 
 </div>
