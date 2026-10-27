@@ -48,6 +48,32 @@ A Python package designed to run large language models with constrained GPU memo
 
 > Designed for resource-constrained inference. See the repository for supported models, requirements, benchmarks, and current limitations.
 
+#### Inference architecture
+
+```mermaid
+flowchart LR
+    A["Model weights<br/>RAM / disk"] --> B["Pinned host memory"]
+    B --> C["CUDA transfer stream"]
+    C --> D["GPU scratchpad<br/>Double buffer"]
+    D --> E["CUDA compute stream"]
+    E --> F["Transformer output"]
+    G["KV-cache budget"] -.-> D
+    C -. "Prefetch next layer" .-> D
+```
+
+#### Published layer-streaming benchmark
+
+Measured on an **NVIDIA RTX 3050 Laptop GPU (4 GB VRAM)**. The reported timings compare sequential layer transfer/execution against asynchronous prefetching in a streaming microbenchmark; **they are not full-model tokens/second measurements**.
+
+| Layers | Sequential | Prefetch | Speedup | GPU scratchpad |
+| :-- | --: | --: | --: | --: |
+| 8 | 68.08 ms | 56.70 ms | 1.20× | 128 MB |
+| 16 | 136.51 ms | 126.11 ms | 1.08× | 128 MB |
+| 24 | 219.05 ms | 170.54 ms | **1.28×** | 128 MB |
+| 32 | 278.85 ms | 265.03 ms | 1.05× | 128 MB |
+
+[Benchmark details and methodology](https://github.com/prathamc00/streamLLM#benchmark-performance) · [Quickstart](https://github.com/prathamc00/streamLLM#quickstart)
+
 ### 02 / Deepfake Detection — AI-Powered Media Analysis
 
 **[Explore repository](https://github.com/prathamc00/Deepfake-detection-usingAI)**
@@ -92,6 +118,17 @@ An intelligent inbox monitoring project that combines email integrations, import
 | **Applications** | React, TypeScript, JavaScript, HTML, CSS |
 | **Data & development** | NumPy, Pandas, Git, GitHub, Docker |
 
+## Professional experience
+
+**Crismatec — Software Development / AI Integration**  
+*December 2024 – Present*
+
+- Contributed to a **Student Learning Portal**, developing interfaces and connecting them to backend APIs.
+- Worked on integrating **AI-powered learning workflows**, including personalized learning support, quiz generation, and assessment-related features.
+- Collaborated with the development team on integration testing, troubleshooting, and application improvements.
+
+> Interested in the intersection of applied AI, software engineering, and resource-efficient inference systems.
+
 ## Engineering interests
 
 **Inference performance** — reducing peak GPU memory requirements and studying latency / throughput tradeoffs.
@@ -100,14 +137,10 @@ An intelligent inbox monitoring project that combines email integrations, import
 
 **Agentic software** — exploring tool-using AI workflows, automation, and developer productivity.
 
-## GitHub activity
+## More repositories
 
-<div align="center">
+For implementations, experiments, and development history, visit the [repositories tab](https://github.com/prathamc00?tab=repositories). Selected work is highlighted above.
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathamc00&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="GitHub activity statistics" height="165" />
-<img src="https://streak-stats.demolab.com?user=prathamc00&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" height="165" />
-
-</div>
 
 ---
 
