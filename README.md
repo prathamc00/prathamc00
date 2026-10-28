@@ -63,7 +63,7 @@ flowchart LR
 
 #### Published layer-streaming benchmark
 
-Measured on an **a 4 GB VRAM GPU**. The reported timings compare sequential layer transfer/execution against asynchronous prefetching in a streaming microbenchmark; **they are not full-model tokens/second measurements**.
+Measured on **a 4 GB VRAM GPU**. The reported timings compare sequential layer transfer/execution against asynchronous prefetching in a streaming microbenchmark; **they are not full-model tokens/second measurements**.
 
 | Layers | Sequential | Prefetch | Speedup | GPU scratchpad |
 | :-- | --: | --: | --: | --: |
